@@ -1,6 +1,30 @@
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Arvo:wght@400;700&family=Catamaran:wght@400;500;700;800;900&family=Hind:wght@400;700&family=Josefin+Sans:wght@400;500;700&display=swap');
+
+
+
+/*
+font-family: 'Alata', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
+:root{
+  --main-orange-color: #f39c11;
+  --main-blue-color: #23233f
+}
+
+.container {
+    max-width: 95%;
+    margin: auto;
+}
+
+/* Navbar */
