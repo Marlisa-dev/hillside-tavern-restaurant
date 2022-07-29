@@ -1,5 +1,5 @@
 # hillside-tavern-restaurant
 
-Build with React.js
+Built with React.js
 
 https://hillside-tavern-restaurant.netlify.app/
